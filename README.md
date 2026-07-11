@@ -109,15 +109,15 @@
 ### 🌍 Ngôn ngữ & Đa quốc gia
 | # | Ngôn ngữ | # | Ngôn ngữ |
 |---|----------|---|----------|
-| 54 | **Vietnamese** 🇻🇳 | 63 | **Indonesian** 🇮🇩 |
-| 55 | **English** 🇬🇧 | 64 | **Japanese** 🇯🇵 |
-| 56 | **Spanish** 🇪🇸 | 65 | **Korean** 🇰🇷 |
-| 57 | **French** 🇫🇷 | 66 | **Russian** 🇷🇺 |
-| 58 | **Italian** 🇮🇹 | 67 | **Mexico** 🇲🇽 |
-| 59 | **China** 🇨🇳 | 68 | **German** 🇩🇪 |
-| 60 | **Brazil** 🇧🇷 | 69 | **Thailand** 🇹🇭 |
-| 61 | **Hindi** 🇮🇳 | — | — |
-| 62 | **Indonesian** 🇮🇩 | — | — |
+| 54 | **Vietname**🇻🇳 | 63 | **Indonesia**🇮🇩 |
+| 55 | **English**🇬🇧 | 64 | **Japan**🇯🇵 |
+| 56 | **Spain** 🇪🇸| 65 | **Korean**🇰🇷 |
+| 57 | **France**🇫🇷 | 66 | **Russia**🇷🇺 |
+| 58 | **Italy**🇮🇹 | 67 | *Mexico**🇲🇽 |
+| 59 | **China**🇨🇳 | 68 | **Germany**🇩🇪 |
+| 60 | **Brazil**🇧🇷 | 69 | **Thailand**🇹🇭 |
+| 61 | **India**🇮🇳 | — | — |
+| 62 | **Indonesia**🇮🇩 | — | — |
 
 ---
 
