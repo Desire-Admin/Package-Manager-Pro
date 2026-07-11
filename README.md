@@ -1,4 +1,4 @@
-*App For Viewing App Package Names On *Android And Copy Them Quickly Yes Copy *App Name Yes Copy App Package And Can *Delete App 
+App For Viewing App Package Names On Android And Copy Them Quickly Yes Copy App Name Yes Copy App Package And Can Delete App 
 
 1. Copy Name
 2. Copy package
@@ -12,13 +12,13 @@
 10. Uninstall
 11. See Details in Settings
 12. Export APK
-13.Application Search
-14. Show Only User Applications
-15. Show All Applications 
+13. Application Search
+14. Show Only User App
+15. Show All App
 16. ​Sort A-Z
 17. ​Sort Z-A
-18. ​Sort by Size (Largest First)
-​19. Sort by Size (Smallest First)
+18. ​Sort by Size (Largest)
+​19. Sort by Size (Smallest)
 ​20. Sort by New Time
 21. ​Sort by Old Time
 22. ​Sort by Most Permissions
