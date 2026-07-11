@@ -17,8 +17,8 @@ App For Viewing App Package Names On Android And Copy Them Quickly Yes Copy App 
 15. Show All App
 16. ​Sort A-Z
 17. ​Sort Z-A
-18. ​Sort by Size (Largest)
-​19. Sort by Size (Smallest)
+18. ​Sort by (Size Largest)
+​19. Sort by (Size Smallest)
 ​20. Sort by New Time
 21. ​Sort by Old Time
 22. ​Sort by Most Permissions
