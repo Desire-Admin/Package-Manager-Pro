@@ -164,9 +164,12 @@
 
 ## Email Hỗ Trợ
 **support.desire.studio@gmail.com**
+
 **telo.iogame@gmail.com**
+
 **desirestudio.admin@gmail.com**
-**team.desire.telo.studio@gmail.com
+
+**team.desire.telo.studio@gmail.com**
 
 
 47. Hide & Show Rights
