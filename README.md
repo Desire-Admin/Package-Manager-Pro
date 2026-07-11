@@ -1,4 +1,4 @@
-#App For Viewing App Package Names On #Android And Copy Them Quickly Yes Copy #App Name Yes Copy App Package And Can #Delete App 
+*App For Viewing App Package Names On *Android And Copy Them Quickly Yes Copy *App Name Yes Copy App Package And Can *Delete App 
 
 1. Copy Name
 2. Copy package
