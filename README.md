@@ -198,6 +198,7 @@
 
 ## We will keep updated with new updates
 
-## You can send us a Localized Translation for a better and more accurate translation or suggest adding another language.
+## Language Support
+> **You can send us a Localized Translation for a better and more accurate translation or suggest adding another language.**
 
 
