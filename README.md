@@ -113,11 +113,10 @@
 | 55 | **English**🇬🇧 | 64 | **Japan**🇯🇵 |
 | 56 | **Spain** 🇪🇸| 65 | **Korean**🇰🇷 |
 | 57 | **France**🇫🇷 | 66 | **Russia**🇷🇺 |
-| 58 | **Italy**🇮🇹 | 67 | *Mexico**🇲🇽 |
+| 58 | **Italy**🇮🇹 | 67 | **Mexico**🇲🇽 |
 | 59 | **China**🇨🇳 | 68 | **Germany**🇩🇪 |
 | 60 | **Brazil**🇧🇷 | 69 | **Thailand**🇹🇭 |
 | 61 | **India**🇮🇳 | — | — |
-| 62 | **Indonesia**🇮🇩 | — | — |
 
 ---
 
