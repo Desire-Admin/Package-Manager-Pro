@@ -155,6 +155,11 @@
 ---
 
 
+## Liên Kết Trang Chủ
+> **https://github.com/Desire-Admin/Package-Manager-Pro**
+> **https://appteka.store/profile/551402**
+> **Appteka Store Và Github**
+
 47. Hide & Show Rights
 48. Hide & Show Activities
 49. See SHA-1 Code
@@ -180,4 +185,5 @@
 69. Thailand
 
 We will keep updated with new updates
+
 
