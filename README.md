@@ -23,8 +23,8 @@ App For Viewing App Package Names On Android And Copy Them Quickly Yes Copy App 
 21. ​Sort by Old Time
 22. ​Sort by Most Permissions
 23. Export User App Name Only
-24. ​Export Full User Application
-​25. Export Entire Full Application
+24. ​Export Full User App
+​25. Export Entire Full App
 ​26. Export Entire App Name Only
 27. Application Information
 28. Old Android Version
