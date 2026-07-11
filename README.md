@@ -161,6 +161,14 @@
 > **https://appteka.store/profile/551402**
 > **Appteka Store Và Github**
 
+
+## Email Hỗ Trợ
+**support.desire.studio@gmail.com**
+**telo.iogame@gmail.com**
+**desirestudio.admin@gmail.com**
+**team.desire.telo.studio@gmail.com
+
+
 47. Hide & Show Rights
 48. Hide & Show Activities
 49. See SHA-1 Code
