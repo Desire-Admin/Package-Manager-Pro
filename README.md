@@ -196,6 +196,8 @@
 68. German
 69. Thailand
 
-We will keep updated with new updates
+## We will keep updated with new updates
+
+## You can send us a Localized Translation for a better and more accurate translation or suggest adding another language.
 
 
