@@ -113,9 +113,9 @@
 | 55 | **English** 🇬🇧 | 64 | **Japanese** 🇯🇵 |
 | 56 | **Spanish** 🇪🇸 | 65 | **Korean** 🇰🇷 |
 | 57 | **French** 🇫🇷 | 66 | **Russian** 🇷🇺 |
-| 58 | **Italian** 🇮🇹 | 67 | **Spanish (Mexico)** 🇲🇽 |
-| 59 | **Chinese (China)** 🇨🇳 | 68 | **German** 🇩🇪 |
-| 60 | **Portuguese (Brazil)** 🇧🇷 | 69 | **Thailand** 🇹🇭 |
+| 58 | **Italian** 🇮🇹 | 67 | **Mexico** 🇲🇽 |
+| 59 | **China** 🇨🇳 | 68 | **German** 🇩🇪 |
+| 60 | **Brazil** 🇧🇷 | 69 | **Thailand** 🇹🇭 |
 | 61 | **Hindi** 🇮🇳 | — | — |
 | 62 | **Indonesian** 🇮🇩 | — | — |
 
