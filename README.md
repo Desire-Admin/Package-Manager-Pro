@@ -109,15 +109,15 @@
 ### 🌍 Ngôn ngữ & Đa quốc gia
 | # | Ngôn ngữ | # | Ngôn ngữ |
 |---|----------|---|----------|
-| 54 | **Vietnamese** (🇻🇳) | 63 | **Indonesian** (🇮🇩) |
-| 55 | **English** (🇬🇧) | 64 | **Japanese** (🇯🇵) |
-| 56 | **Spanish** (🇪🇸) | 65 | **Korean** (🇰🇷) |
-| 57 | **French** (🇫🇷) | 66 | **Russian** (🇷🇺) |
-| 58 | **Italian** (🇮🇹) | 67 | **Spanish (Mexico)** (🇲🇽) |
-| 59 | **Chinese (China)** (🇨🇳) | 68 | **German** (🇩🇪) |
-| 60 | **Portuguese (Brazil)** (🇧🇷) | 69 | **Thailand** (🇹🇭) |
-| 61 | **Hindi** (🇮🇳) | — | — |
-| 62 | **Indonesian** (🇮🇩) | — | — |
+| 54 | **Vietnamese** 🇻🇳 | 63 | **Indonesian** 🇮🇩 |
+| 55 | **English** 🇬🇧 | 64 | **Japanese** 🇯🇵 |
+| 56 | **Spanish** 🇪🇸 | 65 | **Korean** 🇰🇷 |
+| 57 | **French** 🇫🇷 | 66 | **Russian** 🇷🇺 |
+| 58 | **Italian** 🇮🇹 | 67 | **Spanish (Mexico)** 🇲🇽 |
+| 59 | **Chinese (China)** 🇨🇳 | 68 | **German** 🇩🇪 |
+| 60 | **Portuguese (Brazil)** 🇧🇷 | 69 | **Thailand** 🇹🇭 |
+| 61 | **Hindi** 🇮🇳 | — | — |
+| 62 | **Indonesian** 🇮🇩 | — | — |
 
 ---
 
@@ -147,7 +147,16 @@
 
 ---
 
-*© 2026 - Phiên bản mới nhất luôn được cập nhật*47. Hide & Show Rights
+*© 2026 - CURRENT TOOL CANNOT SHARE SOURCE CODE WHEN NECESSARY WILL SHARE THE APP FOR FOREVER FREE AND WITHOUT ADS
+
+## 🤝 TEAM DEVELOPER
+> **Đội ngũ Developer một người** - Thị Trấn Nguyễn - Vietnam - An Giang
+> Désiré Studio - Telo Studio - Telo Series - Désiré Series - Désiré Other Variations
+
+---
+
+
+47. Hide & Show Rights
 48. Hide & Show Activities
 49. See SHA-1 Code
 50. See Definition Application
