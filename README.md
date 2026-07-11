@@ -109,7 +109,7 @@
 ### 🌍 Ngôn ngữ & Đa quốc gia
 | # | Ngôn ngữ | # | Ngôn ngữ |
 |---|----------|---|----------|
-| 54 | **Vietname**🇻🇳 | 63 | **Indonesia**🇮🇩 |
+| 54 | **Vietnam**🇻🇳 | 63 | **Indonesia**🇮🇩 |
 | 55 | **English**🇬🇧 | 64 | **Japan**🇯🇵 |
 | 56 | **Spain** 🇪🇸| 65 | **Korean**🇰🇷 |
 | 57 | **France**🇫🇷 | 66 | **Russia**🇷🇺 |
